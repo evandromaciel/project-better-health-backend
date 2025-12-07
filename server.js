@@ -13,7 +13,7 @@ const app = require('./app');
 // ======================
 
 // Get port from environment variables or use default port 5000
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT || 5001;
 
 // ======================
 // Start Server
